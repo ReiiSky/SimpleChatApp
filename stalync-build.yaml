@@ -1,0 +1,5 @@
+Functions:
+  ForwardMessage:
+    EventName: sendMessage
+    Path: forward-message/app.js
+    Handler: handle
